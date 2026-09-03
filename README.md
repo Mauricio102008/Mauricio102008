@@ -1,9 +1,13 @@
-## Hi there 👋
+##  👋 Hola¡ Soy Mauricio Sgura
+- Estudiante de ingeniería informática
+- Extrovertido, creativo y social
+- Me gusta aprender y mejorar 
+
 
 <!--
 **Mauricio102008/Mauricio102008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hereare some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
